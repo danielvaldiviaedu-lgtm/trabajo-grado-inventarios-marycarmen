@@ -1,0 +1,6 @@
+# Ignorar archivos temporales y dependencias
+node_modules/
+vendor/
+.env
+.DS_Store
+*.log
